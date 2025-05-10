@@ -1,2 +1,2 @@
 # SPPU-DSBDA-LabAssignments
-SPPU Computer Engineering DSBDA Lab Practicals
+SPPU TE Computer Engineering DSBDA Lab Practicals
